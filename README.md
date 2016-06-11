@@ -1,4 +1,4 @@
 python-RPI-temperature
 ======================
 
-Python code I used in my Raspberry Pi project for a course (Environmental Measuring Techniques) at Uppsala University.
+Python code I modified (from Matthew Kirk (2012)) in my Raspberry Pi project for the course Environmental Measuring Techniques (5 ECTS) at Uppsala University 2013.
